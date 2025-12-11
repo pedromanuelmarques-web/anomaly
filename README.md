@@ -1,6 +1,6 @@
 # Anomaly Detection Streamlit (Binder)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedromanuelmarques-web/anomaly-detection-streamlit-binder/main?urlpath=proxy/8501/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pedromanuelmarques-web/anomaly/main?urlpath=proxy/8501/)
 
 This repository hosts a **Streamlit Anomaly Detection** app and Binder configuration so you can run it directly in the browser, no installs needed.
 
